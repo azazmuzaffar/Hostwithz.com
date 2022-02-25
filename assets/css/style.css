@@ -43,7 +43,7 @@ h1 {
 
 .primary-btn:hover {
   -webkit-transform: scale(1.04);
-          transform: scale(1.04);
+  transform: scale(1.04);
   color: #fff;
 }
 
@@ -91,11 +91,11 @@ h1 {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   color: #000;
   font-size: 16px;
   font-weight: 600;
@@ -209,8 +209,8 @@ h1 {
 .hero-section .domain-ext-wrap li {
   background: #fff;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   color: #f72a2a;
   padding: 8px 10px;
   margin: 0 5px;
@@ -317,7 +317,7 @@ h1 {
   background: #fff;
   border-radius: 20px;
   -webkit-box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
-          box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
+  box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
   padding: 30px;
   height: 400px;
 }
@@ -482,7 +482,7 @@ h1 {
   text-align: center;
   border-radius: 20px;
   -webkit-box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
-          box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
+  box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
   padding: 20px;
 }
 
@@ -509,7 +509,7 @@ h1 {
   background: #fff;
   border-radius: 20px;
   -webkit-box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
-          box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
+  box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
 }
 
 .feature-section .single-feature h4 {
@@ -641,7 +641,7 @@ h1 {
   left: 50%;
   top: 0%;
   -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   width: 200px;
 }
 
@@ -655,7 +655,7 @@ h1 {
   border-bottom: 10px solid #48b065;
   border-left: 10px solid transparent;
   -webkit-transform: rotate(180deg);
-          transform: rotate(180deg);
+  transform: rotate(180deg);
 }
 
 .plan-section .text-wrap {
@@ -716,7 +716,7 @@ h1 {
   color: #000;
   background: transparent;
   -webkit-box-shadow: none;
-          box-shadow: none;
+  box-shadow: none;
   border-bottom: 1px solid #dcdcdc;
   font-weight: 600;
 }
@@ -814,8 +814,8 @@ h1 {
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     text-align: left;
     padding: 25px;
     z-index: 9999;
@@ -826,7 +826,7 @@ h1 {
   .header-section .main-menu.active {
     left: 0;
     -webkit-box-shadow: 3px 0px 5px 0px rgba(0, 0, 0, 0.46);
-            box-shadow: 3px 0px 5px 0px rgba(0, 0, 0, 0.46);
+    box-shadow: 3px 0px 5px 0px rgba(0, 0, 0, 0.46);
   }
   .header-section .main-menu li {
     margin-bottom: 25px;
@@ -844,8 +844,8 @@ h1 {
   .reverse-md {
     -webkit-box-orient: vertical;
     -webkit-box-direction: reverse;
-        -ms-flex-direction: column-reverse;
-            flex-direction: column-reverse;
+    -ms-flex-direction: column-reverse;
+    flex-direction: column-reverse;
   }
   .conparison-section .table {
     display: block;
@@ -876,7 +876,7 @@ h1 {
   }
   .reviews-section .col-md-4 .single-review {
     -webkit-box-shadow: none !important;
-            box-shadow: none !important;
+    box-shadow: none !important;
     height: auto !important;
   }
   .reviews-section .col-md-4 .single-review p {
@@ -905,7 +905,7 @@ h1 {
   }
   .whychoose-section .single-why {
     -webkit-box-shadow: none;
-            box-shadow: none;
+    box-shadow: none;
     background: #f4f4f4;
   }
   .whychoose-section .single-why img {
@@ -982,8 +982,8 @@ h1 {
   .hero-section .rating-wrap {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .hero-section .rating-wrap img {
     margin-right: 0 !important;
@@ -997,8 +997,8 @@ h1 {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     width: 320px;
     margin: 0 auto !important;
   }
@@ -1007,8 +1007,8 @@ h1 {
   }
   .hero-section .countdown-wrap #countdown {
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
   .conparison-section .table th {
     font-size: 12px;
