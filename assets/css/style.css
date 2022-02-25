@@ -1,5 +1,5 @@
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 ul {
@@ -30,20 +30,20 @@ h1 {
 }
 
 .primary-btn {
-  background: #48b065;
+  background: #48B065;
   text-decoration: none;
   font-weight: 500;
   padding: 15px 50px;
   display: inline-block;
   border-radius: 10px;
   color: #fff;
-  -webkit-transition: 0.4s;
-  transition: 0.4s;
+  -webkit-transition: .4s;
+  transition: .4s;
 }
 
 .primary-btn:hover {
   -webkit-transform: scale(1.04);
-  transform: scale(1.04);
+          transform: scale(1.04);
   color: #fff;
 }
 
@@ -91,11 +91,11 @@ h1 {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
   -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   color: #000;
   font-size: 16px;
   font-weight: 600;
@@ -135,7 +135,7 @@ h1 {
   width: 10px;
   height: 10px;
   margin: 5px 7px;
-  background: #d6d6d6;
+  background: #D6D6D6;
   display: block;
   -webkit-backface-visibility: visible;
   -webkit-transition: opacity 200ms ease;
@@ -162,8 +162,8 @@ h1 {
 
 .owl-next span,
 .owl-prev span {
-  color: #48b065;
-  border: 1px solid #48b065;
+  color: #48B065;
+  border: 1px solid #48B065;
   line-height: 24px;
   width: 30px;
   height: 30px;
@@ -185,8 +185,8 @@ h1 {
 }
 
 .hero-section {
-  background: -webkit-gradient(linear, right top, left top, from(#f72a2a), color-stop(101.25%, #aa126d));
-  background: linear-gradient(270deg, #f72a2a 0%, #aa126d 101.25%);
+  background: -webkit-gradient(linear, right top, left top, from(#F72A2A), color-stop(101.25%, #AA126D));
+  background: linear-gradient(270deg, #F72A2A 0%, #AA126D 101.25%);
   color: #fff;
 }
 
@@ -209,9 +209,9 @@ h1 {
 .hero-section .domain-ext-wrap li {
   background: #fff;
   -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  color: #f72a2a;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #F72A2A;
   padding: 8px 10px;
   margin: 0 5px;
   border-radius: 6px;
@@ -278,7 +278,7 @@ h1 {
 .hero-section #countdown .count span {
   display: inline-block;
   background: #fff;
-  color: #f72a2a;
+  color: #F72A2A;
   font-weight: 500;
   border-radius: 6px;
   padding: 10px;
@@ -287,7 +287,7 @@ h1 {
 }
 
 .logo-section {
-  background: #f2f5ff;
+  background: #F2F5FF;
 }
 
 .logo-section .single-logo img {
@@ -295,7 +295,7 @@ h1 {
 }
 
 .reviews-section {
-  background: #f2f5ff;
+  background: #F2F5FF;
   padding-bottom: 0 !important;
 }
 
@@ -306,7 +306,7 @@ h1 {
 }
 
 .reviews-section .sub-title {
-  color: #48b065;
+  color: #48B065;
   font-size: 20px;
   font-weight: 700;
   padding: 50px 0;
@@ -317,7 +317,7 @@ h1 {
   background: #fff;
   border-radius: 20px;
   -webkit-box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
-  box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
+          box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
   padding: 30px;
   height: 400px;
 }
@@ -335,7 +335,7 @@ h1 {
 }
 
 .brands-section {
-  background: #f2f5ff;
+  background: #F2F5FF;
 }
 
 .brands-section .single-brand {
@@ -375,11 +375,11 @@ h1 {
 }
 
 .recognise-section {
-  background: #f2f5ff;
+  background: #F2F5FF;
 }
 
 .recognise-section p {
-  color: #2b324c !important;
+  color: #2B324C !important;
 }
 
 .recognise-section .sub-txt {
@@ -391,16 +391,16 @@ h1 {
 }
 
 .recognise-section .bottom-wrap .div-left {
-  border-right: 1px solid #cacaca;
+  border-right: 1px solid #CACACA;
 }
 
 .conparison-section {
-  background: #f2f5ff;
+  background: #F2F5FF;
 }
 
 .conparison-section .sub-txt {
   margin-top: 10px;
-  color: #2b324c;
+  color: #2B324C;
   margin-bottom: 50px;
 }
 
@@ -419,7 +419,7 @@ h1 {
 }
 
 .conparison-section .table .first-col {
-  background: #f72a2a;
+  background: #F72A2A;
   color: #fff;
 }
 
@@ -447,8 +447,8 @@ h1 {
 }
 
 .application-section {
-  background: -webkit-gradient(linear, right top, left top, from(#f72a2a), color-stop(101.25%, #aa126d));
-  background: linear-gradient(270deg, #f72a2a 0%, #aa126d 101.25%);
+  background: -webkit-gradient(linear, right top, left top, from(#F72A2A), color-stop(101.25%, #AA126D));
+  background: linear-gradient(270deg, #F72A2A 0%, #AA126D 101.25%);
   color: #fff;
 }
 
@@ -457,8 +457,8 @@ h1 {
 }
 
 .guarantee-section {
-  background: -webkit-gradient(linear, right top, left top, from(#f72a2a), color-stop(101.25%, #aa126d));
-  background: linear-gradient(270deg, #f72a2a 0%, #aa126d 101.25%);
+  background: -webkit-gradient(linear, right top, left top, from(#F72A2A), color-stop(101.25%, #AA126D));
+  background: linear-gradient(270deg, #F72A2A 0%, #AA126D 101.25%);
   color: #fff;
 }
 
@@ -474,7 +474,7 @@ h1 {
 
 .whychoose-section .sub-txt {
   margin-top: 10px;
-  color: #9a9a9a;
+  color: #9A9A9A;
 }
 
 .whychoose-section .single-why {
@@ -482,7 +482,7 @@ h1 {
   text-align: center;
   border-radius: 20px;
   -webkit-box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
-  box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
+          box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
   padding: 20px;
 }
 
@@ -493,11 +493,11 @@ h1 {
 }
 
 .feature-section {
-  background: #f2f5ff;
+  background: #F2F5FF;
 }
 
 .feature-section p {
-  color: #9a9a9a;
+  color: #9A9A9A;
   margin-top: 10px;
   margin-bottom: 20px;
 }
@@ -509,7 +509,7 @@ h1 {
   background: #fff;
   border-radius: 20px;
   -webkit-box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
-  box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
+          box-shadow: 0px 10px 50px rgba(0, 59, 121, 0.0725798);
 }
 
 .feature-section .single-feature h4 {
@@ -527,8 +527,8 @@ h1 {
 }
 
 .plan-section {
-  background: -webkit-gradient(linear, right top, left top, from(#f72a2a), color-stop(101.25%, #aa126d));
-  background: linear-gradient(270deg, #f72a2a 0%, #aa126d 101.25%);
+  background: -webkit-gradient(linear, right top, left top, from(#F72A2A), color-stop(101.25%, #AA126D));
+  background: linear-gradient(270deg, #F72A2A 0%, #AA126D 101.25%);
   color: #fff;
 }
 
@@ -590,7 +590,7 @@ h1 {
 
 .plan-section .single-plan .save-btn {
   margin-left: 10px;
-  background: #48b065;
+  background: #48B065;
   color: #fff;
   padding: 6px 28px;
   display: inline-block;
@@ -623,7 +623,7 @@ h1 {
 }
 
 .plan-section .popular-price {
-  border: 4px solid #48b065;
+  border: 4px solid #48B065;
   padding-top: 50px;
 }
 
@@ -632,7 +632,7 @@ h1 {
 }
 
 .plan-section .popular-btn {
-  background: #48b065;
+  background: #48B065;
   color: #fff;
   font-size: 16px;
   padding: 10px 40px;
@@ -641,7 +641,7 @@ h1 {
   left: 50%;
   top: 0%;
   -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
   width: 200px;
 }
 
@@ -655,7 +655,7 @@ h1 {
   border-bottom: 10px solid #48b065;
   border-left: 10px solid transparent;
   -webkit-transform: rotate(180deg);
-  transform: rotate(180deg);
+          transform: rotate(180deg);
 }
 
 .plan-section .text-wrap {
@@ -699,7 +699,7 @@ h1 {
 
 .faq-section .accordion-item {
   border: none;
-  border-bottom: 1px solid #dcdcdc;
+  border-bottom: 1px solid #DCDCDC;
 }
 
 .faq-section .accordion-button {
@@ -716,8 +716,8 @@ h1 {
   color: #000;
   background: transparent;
   -webkit-box-shadow: none;
-  box-shadow: none;
-  border-bottom: 1px solid #dcdcdc;
+          box-shadow: none;
+  border-bottom: 1px solid #DCDCDC;
   font-weight: 600;
 }
 
@@ -726,12 +726,12 @@ h1 {
 }
 
 .cta-section {
-  background: #f2f5ff;
+  background: #F2F5FF;
   padding: 50px 0;
 }
 
 .cta-section h5 {
-  color: #ed3795;
+  color: #ED3795;
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 0;
@@ -748,7 +748,7 @@ h1 {
 }
 
 .footer-section .single-nav h4 {
-  color: #0d2476;
+  color: #0D2476;
   font-weight: 600;
   font-size: 20px;
   margin-bottom: 10px;
@@ -762,7 +762,7 @@ h1 {
 }
 
 .footer-section .footer-bottom {
-  border-top: 1px solid #a3a3a3;
+  border-top: 1px solid #A3A3A3;
 }
 
 .footer-section .footer-bottom p {
@@ -814,19 +814,19 @@ h1 {
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
     text-align: left;
     padding: 25px;
     z-index: 9999;
-    -webkit-transition: 0.5s;
-    transition: 0.5s;
+    -webkit-transition: .5s;
+    transition: .5s;
     left: -300px;
   }
   .header-section .main-menu.active {
     left: 0;
     -webkit-box-shadow: 3px 0px 5px 0px rgba(0, 0, 0, 0.46);
-    box-shadow: 3px 0px 5px 0px rgba(0, 0, 0, 0.46);
+            box-shadow: 3px 0px 5px 0px rgba(0, 0, 0, 0.46);
   }
   .header-section .main-menu li {
     margin-bottom: 25px;
@@ -844,8 +844,8 @@ h1 {
   .reverse-md {
     -webkit-box-orient: vertical;
     -webkit-box-direction: reverse;
-    -ms-flex-direction: column-reverse;
-    flex-direction: column-reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
   }
   .conparison-section .table {
     display: block;
@@ -876,7 +876,7 @@ h1 {
   }
   .reviews-section .col-md-4 .single-review {
     -webkit-box-shadow: none !important;
-    box-shadow: none !important;
+            box-shadow: none !important;
     height: auto !important;
   }
   .reviews-section .col-md-4 .single-review p {
@@ -905,7 +905,7 @@ h1 {
   }
   .whychoose-section .single-why {
     -webkit-box-shadow: none;
-    box-shadow: none;
+            box-shadow: none;
     background: #f4f4f4;
   }
   .whychoose-section .single-why img {
@@ -963,7 +963,7 @@ h1 {
   }
   .recognise-section .div-left {
     border-right: none !important;
-    border-bottom: 1px solid #cacaca;
+    border-bottom: 1px solid #CACACA;
     padding-bottom: 40px;
     margin-bottom: 40px;
   }
@@ -982,8 +982,8 @@ h1 {
   .hero-section .rating-wrap {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
   }
   .hero-section .rating-wrap img {
     margin-right: 0 !important;
@@ -997,8 +997,8 @@ h1 {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     width: 320px;
     margin: 0 auto !important;
   }
@@ -1007,8 +1007,8 @@ h1 {
   }
   .hero-section .countdown-wrap #countdown {
     -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
   }
   .conparison-section .table th {
     font-size: 12px;
