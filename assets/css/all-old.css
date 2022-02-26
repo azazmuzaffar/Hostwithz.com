@@ -13,7 +13,7 @@ body{font-family:"Open Sans",sans-serif}ul{margin:0;padding:0}li{list-style:none
 .single-plan ul li{text-transform:uppercase;text-align:left;margin-bottom:28px}
 .single-plan ul li::before{
     content: "";
-    background-image: url(../img/payment-check.svg);
+    background-image: url(../images/payment-check.svg);
     background-size: contain;
     display: inline-block;
     width: 20px;
