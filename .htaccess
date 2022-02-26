@@ -1,6 +1,18 @@
 <IfModule mod_expires.c>
   ExpiresActive On
 
+  RewriteEngine on
+  Options +FollowSymlinks -MultiViews
+  RewriteRule ^$ /https://azazmuzaffar.github.io/Hostwithz.com/ [R,L]
+
+  RewriteEngine On
+  RewriteCond %{SERVER_PORT} 21
+  RewriteRule ^(.*)$ https://azazmuzaffar.github.io/Hostwithz.com/$1 [R,L]
+
+  RewriteEngine On
+  RewriteCond %{SERVER_PORT} 80
+  RewriteRule ^(.*)$ https://azazmuzaffar.github.io/Hostwithz.com/$1 [R,L]
+
  # Images
   ExpiresByType image/jpeg "access plus 1 year"
   ExpiresByType image/gif "access plus 1 year"
@@ -31,6 +43,5 @@
   ExpiresByType image/vnd.microsoft.icon "access plus 1 year"
 </IfModule>
 
-RewriteEngine On
-RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://www.hostwithz.com/$1 [R,L]
+
+
