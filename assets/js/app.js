@@ -50,7 +50,7 @@
         clearInterval(x);
         document.getElementById("countdown").innerHTML = "EXPIRED";
       }
-    }, 1000);
+    }, 5);
   
     // Caruesel
   
